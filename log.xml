@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>0</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>1</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before metier.MetierImpl()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>2</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>3</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before metier.IMetier()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>4</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After metier.IMetier()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>5</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>6</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>7</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After metier.MetierImpl()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>8</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:52</date>
+  <millis>1648028872104</millis>
+  <sequence>9</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>10</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>11</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before metier.Compte(Long, double)</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>12</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After metier.Compte(Long, double)</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>13</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>14</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>15</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>16</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before void metier.MetierImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>17</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>18</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before Long metier.Compte.getCode()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>19</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After Long metier.Compte.getCode()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>20</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>21</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>22</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After void metier.MetierImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>23</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>24</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>25</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>26</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before Compte metier.MetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>27</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After Compte metier.MetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>28</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>29</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>30</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>31</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before String metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>32</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After String metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>33</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:47:56</date>
+  <millis>1648028876053</millis>
+  <sequence>34</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>35</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>36</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before Compte metier.MetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>37</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After Compte metier.MetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>38</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>39</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>40</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>41</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before double metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>42</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After double metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>43</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>44</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>45</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>46</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before Compte metier.MetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>47</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After Compte metier.MetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>48</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>49</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>50</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>----------------------------</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>51</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before String metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>52</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After String metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>53</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:0</message>
+</record>
+<record>
+  <date>2022-03-23T10:48:00</date>
+  <millis>1648028880800</millis>
+  <sequence>54</sequence>
+  <logger>LogAspect</logger>
+  <level>INFO</level>
+  <class>LogAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************************</message>
+</record>
+</log>
